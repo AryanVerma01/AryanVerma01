@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I love to code
-
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itzaryanverma@gmail.com](mailto:itzaryanverma@gmail.com)
 * 🧠  I'm learning NextJS
