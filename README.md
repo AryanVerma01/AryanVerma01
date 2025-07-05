@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Verma</h1>
 <h3 align="center">A Full Stack Developer from India</h3>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [itzaryanverma@gmail.com](mailto:itzaryanverma@gmail.com)
-* 🧠  I'm learning Rust
 
 ### Skills
 
